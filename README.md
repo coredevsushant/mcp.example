@@ -89,11 +89,6 @@ what will be temparature for 1 may
 - You can extend the API to support `POST`, `PUT`, etc., and Claude will pick up those too (if described in your OpenAPI spec).
 - This is a great starter template to build your own Claude-interactive backends.
 
----
-
-## 🤝 Contributing
-
-PRs are welcome! Feel free to fork and extend.
 
 ---
 

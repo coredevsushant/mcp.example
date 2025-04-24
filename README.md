@@ -14,7 +14,7 @@ This repository contains a simple `.NET`-based **MCP Server and Web API** integr
 ## ✅ Requirements
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
-- [Claude Desktop App](https://www.anthropic.com/index/claude) (from Anthropic)
+- [Claude Desktop App](https://claude.ai/download) (from Anthropic)
 - Git & CLI
 
 ---

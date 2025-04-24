@@ -21,19 +21,11 @@ This repository contains a simple `.NET`-based **MCP Server and Web API** integr
 
 ## 🚀 How to Run This with Claude Desktop
 
-### 1. Clone the Repo
+### 1. Clone the Repo and run MCP.WebApi
 
-```bash
-git clone https://github.com/yourusername/MCP.WebApi.Example.git
-cd MCP.WebApi.Example
-```
-
-> Make sure the project structure remains intact:
->
-> ```
-> MCP.Server/
-> MCP.WebApi/
-> ```
+> Open MCP.sln 
+> Make sure web api is running on https://localhost:44394/
+> Build MCP.Server
 
 ---
 

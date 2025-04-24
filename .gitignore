@@ -1,0 +1,6 @@
+
+.vs
+MCP.Server/obj
+MCP.WebApi/obj
+MCP.Server/bin
+MCP.WebApi/bin

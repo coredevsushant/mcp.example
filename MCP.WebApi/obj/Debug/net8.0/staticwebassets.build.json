@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E8G7xCVMZrO4ZipSDfaPzoS+mVBPvMqHCIKdNyc7vbo=",
+  "Source": "MCP.WebApi",
+  "BasePath": "_content/MCP.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

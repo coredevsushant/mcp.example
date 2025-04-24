@@ -23,9 +23,9 @@ This repository contains a simple `.NET`-based **MCP Server and Web API** integr
 
 ### 1. Clone the Repo and run MCP.WebApi
 
-> Open MCP.sln 
-> Make sure web api is running on https://localhost:44394/
-> Build MCP.Server
+1. Open MCP.sln 
+2. Make sure web api is running on https://localhost:44394/
+3. Build MCP.Server
 
 ---
 
